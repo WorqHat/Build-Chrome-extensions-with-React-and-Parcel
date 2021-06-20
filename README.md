@@ -1,8 +1,8 @@
 # Chrome Extension Sample built with React + Parcel
 
-# CLI Commands
+## CLI Commands
 
-## Development
+### Development
 
 ```Shell
 npm run watch
@@ -10,7 +10,7 @@ npm run watch
 
 Starts the watcher for building project when a file changed.
 
-## Building
+### Building
 
 ```Shell
 npm run build
